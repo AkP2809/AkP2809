@@ -47,12 +47,13 @@
 [instagram]: https://www.instagram.com/armaan_khan2809/
 [linkedin]: https://www.linkedin.com/in/armaan-khan-22231b192/
 
-[![Armaan's github stats](https://github-readme-stats.vercel.app/api?username=AkP2809&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Armaan's github stats](https://github-readme-stats.vercel.app/api?username=AkP2809&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/AkP2809)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809&layout=compact&hide=Jupyter Notebook)](https://github.com/AkP2809)
 
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Event-Countdown-Timer&theme=algolia&show_owner=true)](https://github.com/AkP2809/Event-Countdown-Timer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Intership-Studio-ML-Project&theme=algolia&show_owner=true)](https://github.com/AkP2809/Intership-Studio-ML-Project)
