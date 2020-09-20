@@ -48,4 +48,11 @@
 [linkedin]: https://www.linkedin.com/in/armaan-khan-22231b192/
 
 [![Armaan's github stats](https://github-readme-stats.vercel.app/api?username=AkP2809&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Event-Countdown-Timer&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
