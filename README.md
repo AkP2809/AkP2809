@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://optimistic-developer2128.netlify.app/)
 
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
-
 ## I'm a Enthusiastic Coder & Developer!
 
 - 🔭 I’m currently working on my [Portfolio][website]!
@@ -49,4 +47,4 @@
 [instagram]: https://www.instagram.com/armaan_khan2809/
 [linkedin]: https://www.linkedin.com/in/armaan-khan-22231b192/
 
-<!--[twitter]: https://twitter.com/codeSTACKr-->
+[![Armaan's github stats](https://github-readme-stats.vercel.app/api?username=AkP2809&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
