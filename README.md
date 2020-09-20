@@ -55,4 +55,4 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Event-Countdown-Timer&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Event-Countdown-Timer&theme=algolia&show_owner=true)](https://github.com/AkP2809/Event-Countdown-Timer)
