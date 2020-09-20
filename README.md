@@ -51,7 +51,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809&layout=compact&hide=JupyterNotebook)](https://github.com/AkP2809)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809&layout=compact&hide=JupyterNotebook&langs_count=9)](https://github.com/AkP2809)
 
 <br />
 
