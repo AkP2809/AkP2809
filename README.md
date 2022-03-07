@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my [Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Develop more web projects
+- 🥅 2022 Goals: Develop more web projects & Improve more on DSA Skills
 - ⚡ Hobbies: I love Gaming and Singing
 
 ### Spotify Playing 🎧
